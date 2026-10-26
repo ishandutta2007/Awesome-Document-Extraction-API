@@ -227,3 +227,12 @@ Star the repo if you find it useful!
 **Made for developers, data engineers, document AI practitioners, and automation teams.**  
 
 Let's make document extraction more open, accurate, and accessible.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Document-Extraction-API&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Document-Extraction-API_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Document-Extraction-API_growth.svg">
+  </picture>
+</a>
