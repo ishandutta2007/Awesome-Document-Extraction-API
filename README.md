@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Extraction-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Extraction-API?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Extraction-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Extraction-API?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Extraction-API/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Extraction-API?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Extraction-API/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Extraction-API/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Document-Extraction-API?style=flat-square&color=orange" alt="Issues"/></a>
@@ -25,7 +25,7 @@
 - [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
 - [💻 Open-Source Document AI & OCR Projects](#-open-source-document-ai--ocr-projects)
-  - [⭐ Open-Source Leaderboard & Star Counts](#-open-source-leaderboard--star-counts)
+  - [⭐ Open-Source Leaderboard & Stars_Counts](#-open-source-leaderboard--star-counts)
   - [🔍 Detailed Project Overviews](#-detailed-project-overviews)
 - [🛠️ Architecture: Custom Self-Hosted Pipeline](#️-architecture-custom-self-hosted-pipeline)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -69,87 +69,87 @@ Below is a curated comparison of leading commercial SaaS Document Extraction API
 
 Open-source document extraction toolkits provide complete control over data privacy, zero API vendor lock-in, and full customization for LLM/RAG pipelines.
 
-### ⭐ Open-Source Leaderboard & Star Counts
+### ⭐ Open-Source Leaderboard & Stars_Counts
 
-All repositories are sorted **descending by GitHub Star Counts**. Click on any star badge to view stargazers!
+All repositories are sorted **descending by GitHub Stars_Counts**. Click on any Stars_Badge to view stargazers!
 
-| # | 📦 Repository & Name | 🌟 GitHub Stars (Social) | 🎯 Primary Category & Tech Stack | 📜 License |
+| # | 📦 Repository & Name | 🌟 GitHub_Stars (Social) | 🎯 Primary Category & Tech Stack | 📜 License |
 | :-: | :--- | :---: | :--- | :--- |
-| 1 | **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** | [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) | Multilingual OCR, Layout Detection & Table Extraction (PP-Structure) | Apache-2.0 |
-| 2 | **[MinerU](https://github.com/opendatalab/MinerU)** | [![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers) | Scientific Document Parser, Formula & Table Recognition into Markdown/JSON | Apache-2.0 |
-| 3 | **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** | [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers) | Foundational C++ OCR Engine with LSTM Neural Network Models | Apache-2.0 |
-| 4 | **[Docling](https://github.com/docling-project/docling)** | [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers) | IBM Research Toolkit for PDF/DOCX to JSON/Markdown (DocLayNet + TableFormer) | MIT |
-| 5 | **[Marker](https://github.com/datalab-to/marker)** | [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) | Ultra-fast PDF-to-Markdown Converter with Equation & Table Formatting | GPL-3.0 |
-| 6 | **[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)** | [![GitHub stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers) | Adds Searchable OCR Text Layer to Scanned PDFs and Images | MPL-2.0 |
-| 7 | **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** | [![GitHub stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=social&color=white)](https://github.com/JaidedAI/EasyOCR/stargazers) | Ready-to-Use Deep Learning OCR in Python for 80+ Supported Languages | Apache-2.0 |
-| 8 | **[Surya](https://github.com/datalab-to/surya)** | [![GitHub stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers) | Multilingual Document OCR, Line Detection, Bounding Boxes & Reading Order | GPL-3.0 |
-| 9 | **[olmOCR](https://github.com/allenai/olmocr)** | [![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr?style=social&color=white)](https://github.com/allenai/olmocr/stargazers) | Allen AI Vision-Language Toolkit for Converting PDFs into Clean LLM Pretraining Text | Apache-2.0 |
-| 10 | **[Unstructured](https://github.com/Unstructured-IO/unstructured)** | [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) | Modular Preprocessing & Chunking Library for Ingesting Raw Documents into RAG | Apache-2.0 |
-| 11 | **[pdfplumber](https://github.com/jsvine/pdfplumber)** | [![GitHub stars](https://img.shields.io/github/stars/jsvine/pdfplumber?style=social&color=white)](https://github.com/jsvine/pdfplumber/stargazers) | Precision Extraction of Characters, Rectangles, Lines, Tables & Word Coordinates | MIT |
-| 12 | **[pypdf](https://github.com/py-pdf/pypdf)** | [![GitHub stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers) | Pure-Python PDF Library for Text Extraction, Splitting, Merging & Cryptography | BSD-3-Clause |
-| 13 | **[Nougat](https://github.com/facebookresearch/nougat)** | [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/nougat?style=social&color=white)](https://github.com/facebookresearch/nougat/stargazers) | Meta AI Neural Optical Understanding of Academic PDFs & LaTeX Math Expressions | MIT |
-| 14 | **[Apache Tika](https://github.com/apache/tika)** | [![GitHub stars](https://img.shields.io/github/stars/apache/tika?style=social&color=white)](https://github.com/apache/tika/stargazers) | Enterprise Content Detection & Metadata Extraction Supporting 1,600+ File Formats | Apache-2.0 |
-| 15 | **[Docext](https://github.com/NanoNets/docext)** | [![GitHub stars](https://img.shields.io/github/stars/NanoNets/docext?style=social&color=white)](https://github.com/NanoNets/docext/stargazers) | On-Premises, OCR-Free Document Extraction & Markdown Conversion Benchmark Suite | Apache-2.0 |
-| 16 | **[TWIX](https://github.com/ucbepic/TWIX)** | [![GitHub stars](https://img.shields.io/github/stars/ucbepic/TWIX?style=social&color=white)](https://github.com/ucbepic/TWIX/stargazers) | High-Scale Template Reconstruction & Structured Extraction across Document Batches | Apache-2.0 |
-| 17 | **[DocSlight](https://github.com/ComPDFKit/docslight)** | [![GitHub stars](https://img.shields.io/github/stars/ComPDFKit/docslight?style=social&color=white)](https://github.com/ComPDFKit/docslight/stargazers) | AI Document Parsing & BBox Traceable Field Extraction with PaddleOCR / VLM Backends | Apache-2.0 |
-| 18 | **[UniDocVerse](https://github.com/bommavj/unidocverse-service)** | [![GitHub stars](https://img.shields.io/github/stars/bommavj/unidocverse-service?style=social&color=white)](https://github.com/bommavj/unidocverse-service/stargazers) | Privacy-First Multi-Vertical IDP with LangGraph ReAct Agents & Docling Ingestion | Apache-2.0 |
+| 1 | **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** | [![GitHub_Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) | Multilingual OCR, Layout Detection & Table Extraction (PP-Structure) | Apache-2.0 |
+| 2 | **[MinerU](https://github.com/opendatalab/MinerU)** | [![GitHub_Stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers) | Scientific Document Parser, Formula & Table Recognition into Markdown/JSON | Apache-2.0 |
+| 3 | **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** | [![GitHub_Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers) | Foundational C++ OCR Engine with LSTM Neural Network Models | Apache-2.0 |
+| 4 | **[Docling](https://github.com/docling-project/docling)** | [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers) | IBM Research Toolkit for PDF/DOCX to JSON/Markdown (DocLayNet + TableFormer) | MIT |
+| 5 | **[Marker](https://github.com/datalab-to/marker)** | [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) | Ultra-fast PDF-to-Markdown Converter with Equation & Table Formatting | GPL-3.0 |
+| 6 | **[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)** | [![GitHub_Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers) | Adds Searchable OCR Text Layer to Scanned PDFs and Images | MPL-2.0 |
+| 7 | **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** | [![GitHub_Stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=social&color=white)](https://github.com/JaidedAI/EasyOCR/stargazers) | Ready-to-Use Deep Learning OCR in Python for 80+ Supported Languages | Apache-2.0 |
+| 8 | **[Surya](https://github.com/datalab-to/surya)** | [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers) | Multilingual Document OCR, Line Detection, Bounding Boxes & Reading Order | GPL-3.0 |
+| 9 | **[olmOCR](https://github.com/allenai/olmocr)** | [![GitHub_Stars](https://img.shields.io/github/stars/allenai/olmocr?style=social&color=white)](https://github.com/allenai/olmocr/stargazers) | Allen AI Vision-Language Toolkit for Converting PDFs into Clean LLM Pretraining Text | Apache-2.0 |
+| 10 | **[Unstructured](https://github.com/Unstructured-IO/unstructured)** | [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) | Modular Preprocessing & Chunking Library for Ingesting Raw Documents into RAG | Apache-2.0 |
+| 11 | **[pdfplumber](https://github.com/jsvine/pdfplumber)** | [![GitHub_Stars](https://img.shields.io/github/stars/jsvine/pdfplumber?style=social&color=white)](https://github.com/jsvine/pdfplumber/stargazers) | Precision Extraction of Characters, Rectangles, Lines, Tables & Word Coordinates | MIT |
+| 12 | **[pypdf](https://github.com/py-pdf/pypdf)** | [![GitHub_Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers) | Pure-Python PDF Library for Text Extraction, Splitting, Merging & Cryptography | BSD-3-Clause |
+| 13 | **[Nougat](https://github.com/facebookresearch/nougat)** | [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/nougat?style=social&color=white)](https://github.com/facebookresearch/nougat/stargazers) | Meta AI Neural Optical Understanding of Academic PDFs & LaTeX Math Expressions | MIT |
+| 14 | **[Apache Tika](https://github.com/apache/tika)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/tika?style=social&color=white)](https://github.com/apache/tika/stargazers) | Enterprise Content Detection & Metadata Extraction Supporting 1,600+ File Formats | Apache-2.0 |
+| 15 | **[Docext](https://github.com/NanoNets/docext)** | [![GitHub_Stars](https://img.shields.io/github/stars/NanoNets/docext?style=social&color=white)](https://github.com/NanoNets/docext/stargazers) | On-Premises, OCR-Free Document Extraction & Markdown Conversion Benchmark Suite | Apache-2.0 |
+| 16 | **[TWIX](https://github.com/ucbepic/TWIX)** | [![GitHub_Stars](https://img.shields.io/github/stars/ucbepic/TWIX?style=social&color=white)](https://github.com/ucbepic/TWIX/stargazers) | High-Scale Template Reconstruction & Structured Extraction across Document Batches | Apache-2.0 |
+| 17 | **[DocSlight](https://github.com/ComPDFKit/docslight)** | [![GitHub_Stars](https://img.shields.io/github/stars/ComPDFKit/docslight?style=social&color=white)](https://github.com/ComPDFKit/docslight/stargazers) | AI Document Parsing & BBox Traceable Field Extraction with PaddleOCR / VLM Backends | Apache-2.0 |
+| 18 | **[UniDocVerse](https://github.com/bommavj/unidocverse-service)** | [![GitHub_Stars](https://img.shields.io/github/stars/bommavj/unidocverse-service?style=social&color=white)](https://github.com/bommavj/unidocverse-service/stargazers) | Privacy-First Multi-Vertical IDP with LangGraph ReAct Agents & Docling Ingestion | Apache-2.0 |
 
 ---
 
 ### 🔍 Detailed Project Overviews
 
-- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
+- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![GitHub_Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
   *Ultra-practical OCR and document structure analysis toolkit.* Powered by PaddlePaddle, PaddleOCR offers PP-OCRv4 for text detection and recognition across 80+ languages, alongside **PP-Structure** for automated table recognition, layout analysis, and key information extraction (KIE).
 
-- **[MinerU](https://github.com/opendatalab/MinerU)** [![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers)  
+- **[MinerU](https://github.com/opendatalab/MinerU)** [![GitHub_Stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers)  
   *High-precision scientific document extraction.* Converts complex scientific PDFs, research papers, and technical manuals with multi-column formats, mathematical LaTeX formulas, and multi-row tables into clean Markdown and structured JSON.
 
-- **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)  
+- **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** [![GitHub_Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)  
   *The industry-standard open-source OCR engine.* Maintained under Apache-2.0 and sponsored by Google, it provides line finding, character classification via LSTM neural networks, and hOCR / Alto XML coordinate outputs for 100+ languages.
 
-- **[Docling](https://github.com/docling-project/docling)** [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
+- **[Docling](https://github.com/docling-project/docling)** [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
   *Next-gen IBM Research document parser.* Converts PDF, DOCX, PPTX, HTML, and scans into rich JSON and Markdown. Features the `DocLayNet` vision layout model, `TableFormer` for deep table structural parsing, and out-of-the-box integrations with LangChain and LlamaIndex.
 
-- **[Marker](https://github.com/datalab-to/marker)** [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers)  
+- **[Marker](https://github.com/datalab-to/marker)** [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers)  
   *High-speed PDF to Markdown converter.* Leverages deep learning models to strip headers/footers, parse tables, align equations, and format multi-column text with up to 10x faster execution than traditional pipelines.
 
-- **[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)** [![GitHub stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers)  
+- **[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)** [![GitHub_Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers)  
   *Lossless searchable PDF generator.* Injects an invisible OCR text layer into scanned PDFs or images while preserving original raster images, repairing corrupted files, deskewing scans, and validating PDF/A archive standards.
 
-- **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** [![GitHub stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=social&color=white)](https://github.com/JaidedAI/EasyOCR/stargazers)  
+- **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** [![GitHub_Stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=social&color=white)](https://github.com/JaidedAI/EasyOCR/stargazers)  
   *Ready-to-use deep learning OCR library in Python.* Built on PyTorch using CRAFT (Character Region Awareness for Text Detection) and ResNet/LSTM backbones, supporting 80+ languages including Latin, Chinese, Arabic, Devanagari, and Cyrillic scripts.
 
-- **[Surya](https://github.com/datalab-to/surya)** [![GitHub stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers)  
+- **[Surya](https://github.com/datalab-to/surya)** [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers)  
   *Multilingual document OCR and layout parser.* Provides accurate line-level text detection, full OCR across 90+ languages, layout analysis (detecting tables, headers, figures, columns), and reading order determination.
 
-- **[olmOCR](https://github.com/allenai/olmocr)** [![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr?style=social&color=white)](https://github.com/allenai/olmocr/stargazers)  
+- **[olmOCR](https://github.com/allenai/olmocr)** [![GitHub_Stars](https://img.shields.io/github/stars/allenai/olmocr?style=social&color=white)](https://github.com/allenai/olmocr/stargazers)  
   *Allen AI pipeline for LLM pretraining data extraction.* Uses fine-tuned Vision-Language Models (VLM) to convert millions of PDFs, scholarly articles, and books directly into clean, structured plain text without layout artifacts.
 
-- **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
+- **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
   *The ingestion engine for LLMs and RAG pipelines.* Partitions and cleans unstructured documents across 20+ file formats (PDF, DOCX, HTML, PPTX, EML), chunking by semantic layout elements for vector database embeddings.
 
-- **[pdfplumber](https://github.com/jsvine/pdfplumber)** [![GitHub stars](https://img.shields.io/github/stars/jsvine/pdfplumber?style=social&color=white)](https://github.com/jsvine/pdfplumber/stargazers)  
+- **[pdfplumber](https://github.com/jsvine/pdfplumber)** [![GitHub_Stars](https://img.shields.io/github/stars/jsvine/pdfplumber?style=social&color=white)](https://github.com/jsvine/pdfplumber/stargazers)  
   *Visual debugging and table extraction toolkit.* Exposes every character, line, rectangle, and curve in a PDF with exact bounding box coordinates, featuring robust visual table extraction and raster preview rendering.
 
-- **[pypdf](https://github.com/py-pdf/pypdf)** [![GitHub stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)  
+- **[pypdf](https://github.com/py-pdf/pypdf)** [![GitHub_Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)  
   *Pure-Python PDF manipulation standard.* Lightweight and zero-dependency library for fast text extraction, PDF merging, splitting, watermarking, encryption, and metadata inspection.
 
-- **[Nougat](https://github.com/facebookresearch/nougat)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/nougat?style=social&color=white)](https://github.com/facebookresearch/nougat/stargazers)  
+- **[Nougat](https://github.com/facebookresearch/nougat)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/nougat?style=social&color=white)](https://github.com/facebookresearch/nougat/stargazers)  
   *Neural Optical Understanding of Academic Documents.* Developed by Meta AI using the Donut transformer architecture to transcribe scientific PDF page images directly into LaTeX markup.
 
-- **[Apache Tika](https://github.com/apache/tika)** [![GitHub stars](https://img.shields.io/github/stars/apache/tika?style=social&color=white)](https://github.com/apache/tika/stargazers)  
+- **[Apache Tika](https://github.com/apache/tika)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/tika?style=social&color=white)](https://github.com/apache/tika/stargazers)  
   *Foundational content detection and extraction toolkit.* Supports 1,600+ document formats with language detection, MIME classification, recursive metadata extraction, and enterprise streaming pipelines.
 
-- **[Docext](https://github.com/NanoNets/docext)** [![GitHub stars](https://img.shields.io/github/stars/NanoNets/docext?style=social&color=white)](https://github.com/NanoNets/docext/stargazers)  
+- **[Docext](https://github.com/NanoNets/docext)** [![GitHub_Stars](https://img.shields.io/github/stars/NanoNets/docext?style=social&color=white)](https://github.com/NanoNets/docext/stargazers)  
   *OCR-free unstructured document extraction.* An open-source benchmark suite by Nanonets that converts complex invoices and document images into structured Markdown via lightweight visual representations.
 
-- **[TWIX](https://github.com/ucbepic/TWIX)** [![GitHub stars](https://img.shields.io/github/stars/ucbepic/TWIX?style=social&color=white)](https://github.com/ucbepic/TWIX/stargazers)  
+- **[TWIX](https://github.com/ucbepic/TWIX)** [![GitHub_Stars](https://img.shields.io/github/stars/ucbepic/TWIX?style=social&color=white)](https://github.com/ucbepic/TWIX/stargazers)  
   *Template-based data extraction at scale.* UC Berkeley EPIC lab project that discovers shared visual document templates across massive document collections to perform high-throughput, low-compute extraction.
 
-- **[DocSlight](https://github.com/ComPDFKit/docslight)** [![GitHub stars](https://img.shields.io/github/stars/ComPDFKit/docslight?style=social&color=white)](https://github.com/ComPDFKit/docslight/stargazers)  
+- **[DocSlight](https://github.com/ComPDFKit/docslight)** [![GitHub_Stars](https://img.shields.io/github/stars/ComPDFKit/docslight?style=social&color=white)](https://github.com/ComPDFKit/docslight/stargazers)  
   *Open-source AI document parsing and extraction engine.* Developed by ComPDFKit, integrating PaddleOCR and VLMs with bounding-box coordinate traceability for invoices, forms, and contracts.
 
-- **[UniDocVerse](https://github.com/bommavj/unidocverse-service)** [![GitHub stars](https://img.shields.io/github/stars/bommavj/unidocverse-service?style=social&color=white)](https://github.com/bommavj/unidocverse-service/stargazers)  
+- **[UniDocVerse](https://github.com/bommavj/unidocverse-service)** [![GitHub_Stars](https://img.shields.io/github/stars/bommavj/unidocverse-service?style=social&color=white)](https://github.com/bommavj/unidocverse-service/stargazers)  
   *Multi-vertical privacy-first IDP.* Combines LangGraph agentic orchestration, Docling document ingestion, and hybrid vector search for self-hosted enterprise workflows.
 
 ---
@@ -195,7 +195,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, trans
 2. **Create a feature branch**: `git checkout -b feature/add-new-extractor`.
 3. **Add or update an entry**:
    - For **SaaS**: Ensure exact company size, specific starting tier pricing (no "Custom"), and exact free tier/trial limits.
-   - For **Open-Source**: Provide the GitHub link, a `style=social` stars badge linked to stargazers, and accurate description.
+   - For **Open-Source**: Provide the GitHub link, a `style=social` Stars_Badge linked to stargazers, and accurate description.
 4. **Verify formatting**: Run a linter or markdown preview to verify tables and badges.
 5. **Open a Pull Request** with a brief summary of the project.
 
@@ -234,3 +234,12 @@ Thank you for visiting and supporting the **Awesome Document Extraction API** ec
 <p align="center">
   <b>Built with ❤️ for developers, data engineers, and Document AI teams worldwide.</b>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Document-Extraction-API&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Document-Extraction-API_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Document-Extraction-API_growth.svg">
+  </picture>
+</a>
